@@ -144,7 +144,6 @@ ELEC310-Project/
 │   └── Astable_Multivibrator_pwm_mosfet.asc   ← PWM + MOSFET motor driver simulation
 ├── ELEC310-PROJECT.docx                       ← Project report
 ├── Elec310_Fall25_Project_Document (1).pdf    ← Course project manual
-└── Project.pdf                                ← Additional project notes
 ```
 
 ---
